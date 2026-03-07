@@ -134,6 +134,6 @@ Alle rettigheder til billeder tilhører deres respektive ejere.
 **Lavet af Lukas Jermiin**
 
 - [GitHub profil](https://github.com/luka2945)
-- [Se projektet](https://github.com/luka2945/jagttider-kalender)
+- [Se projektet](https://github.com/luka2945/Billede)
 
 Til brug i jagt- og naturprojekter.
