@@ -133,6 +133,6 @@ Alle rettigheder til billeder tilhører deres respektive ejere.
 
 Lavet af
 
-Lukas Jermiin Friis
+Lukas Jermiin
 
 Til brug i jagt- og naturprojekter.
