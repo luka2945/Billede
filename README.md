@@ -115,7 +115,7 @@ Eksempel i HTML:
 
 ---
 
-# 📚 Kilder
+# 📜 Kilder
 
 Billeder af arter stammer fra:
 
@@ -129,10 +129,10 @@ Alle rettigheder til billeder tilhører deres respektive ejere.
 
 ---
 
-# 👤 Projekt
+# 👤 Lavet af
+Lavet af Lukas Jermiin
 
-Lavet af
-
-Lukas Jermiin
+GitHub profil
+Se projektet
 
 Til brug i jagt- og naturprojekter.
