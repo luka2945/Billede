@@ -1,6 +1,9 @@
 # Billede – jagtbare arter
 
-![Last Updated](https://img.shields.io/github/last-commit/luka2945/Billede)
+![Last Commit](https://img.shields.io/github/last-commit/luka2945/Billede)
+![Repo Size](https://img.shields.io/github/repo-size/luka2945/Billede)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-green)
+![Status](https://img.shields.io/badge/Project-Active-brightgreen)
 
 Dette repository indeholder billeder af danske jagtbare arter, som kan bruges direkte via en offentlig URL.
 
