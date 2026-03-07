@@ -130,9 +130,10 @@ Alle rettigheder til billeder tilhører deres respektive ejere.
 ---
 
 # 👤 Lavet af
-Lavet af Lukas Jermiin
 
-GitHub profil
-Se projektet
+**Lavet af Lukas Jermiin**
+
+- [GitHub profil](https://github.com/luka2945)
+- [Se projektet](https://github.com/luka2945/jagttider-kalender)
 
 Til brug i jagt- og naturprojekter.
