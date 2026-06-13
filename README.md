@@ -130,6 +130,7 @@ Danmarkskort / regionskort, hvis det bruges i projektet, ligger også som offent
 Billederne er AI-genererede og kan derfor indeholde små unøjagtigheder.
 
 Brug altid officielle kilder og faglig artsbestemmelse, hvis korrekt identifikation er vigtig.
+
 ---
 
 # 👤 Lavet af
