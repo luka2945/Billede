@@ -22,8 +22,8 @@ https://luka2945.github.io/Billede/af/FILNAVN.png
 Eksempler:
 
 https://luka2945.github.io/Billede/af/graaand.png  
-https://luka2945.github.io/Billede/af/ringdue.png  
-https://luka2945.github.io/Billede/af/skovsneppe.png  
+https://luka2945.github.io/Billede/af/krondyr_han.png  
+https://luka2945.github.io/Billede/af/sika_han.png  
 https://luka2945.github.io/Billede/af/raev.png  
 
 Filnavnet svarer til artens navn skrevet med små bogstaver uden mellemrum.
@@ -78,8 +78,8 @@ Eksempel:
 
 {
   "graaand": "https://luka2945.github.io/Billede/af/graaand.png",
-  "ringdue": "https://luka2945.github.io/Billede/af/ringdue.png",
-  "skovsneppe": "https://luka2945.github.io/Billede/af/skovsneppe.png"
+  "ringdue": "https://luka2945.github.io/Billede/af/krondyr_han.png",
+  "skovsneppe": "https://luka2945.github.io/Billede/af/sika_han.png"
 }
 
 Dette gør det nemt for andre projekter at hente billeder automatisk.
@@ -115,18 +115,21 @@ Eksempel i HTML:
 
 ---
 
-# 📜 Kilder
+# 📜 Kilder og billedgrundlag
 
-Billeder af arter stammer fra:
+Billederne i dette repository er mine egne AI-genererede artsillustrationer.
 
-https://www.naturporten.dk/leksikon
+De er lavet som vejledende illustrationer af danske jagtbare arter og er tænkt som hjælp til genkendelse i projekter som jagttider-kalenderen.
 
-Danmarkskort over regioner stammer fra:
+Billederne skal ikke bruges som officiel artsbestemmelse.
 
-https://wikitree.com/photo.php/6/6e/Project_Danmark-4.png
+Danmarkskort / regionskort, hvis det bruges i projektet, ligger også som offentlig billed-URL i dette repository.
 
-Alle rettigheder til billeder tilhører deres respektive ejere.
+# ⚠️ Disclaimer
 
+Billederne er AI-genererede og kan derfor indeholde små unøjagtigheder.
+
+Brug altid officielle kilder og faglig artsbestemmelse, hvis korrekt identifikation er vigtig.
 ---
 
 # 👤 Lavet af
