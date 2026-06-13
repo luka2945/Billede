@@ -17,14 +17,14 @@ Alle billeder hostes via GitHub Pages, så de kan tilgås direkte fra internette
 
 Alle billeder følger samme URL-struktur:
 
-https://luka2945.github.io/Billede/af/FILNAVN.webp
+https://luka2945.github.io/Billede/af/FILNAVN.png
 
 Eksempler:
 
-https://luka2945.github.io/Billede/af/graaand.webp  
-https://luka2945.github.io/Billede/af/ringdue.webp  
-https://luka2945.github.io/Billede/af/skovsneppe.webp  
-https://luka2945.github.io/Billede/af/raev.webp  
+https://luka2945.github.io/Billede/af/graaand.png  
+https://luka2945.github.io/Billede/af/ringdue.png  
+https://luka2945.github.io/Billede/af/skovsneppe.png  
+https://luka2945.github.io/Billede/af/raev.png  
 
 Filnavnet svarer til artens navn skrevet med små bogstaver uden mellemrum.
 
@@ -77,9 +77,9 @@ Denne fil indeholder en komplet oversigt over alle arter og deres billed-URL.
 Eksempel:
 
 {
-  "graaand": "https://luka2945.github.io/Billede/af/graaand.webp",
-  "ringdue": "https://luka2945.github.io/Billede/af/ringdue.webp",
-  "skovsneppe": "https://luka2945.github.io/Billede/af/skovsneppe.webp"
+  "graaand": "https://luka2945.github.io/Billede/af/graaand.png",
+  "ringdue": "https://luka2945.github.io/Billede/af/ringdue.png",
+  "skovsneppe": "https://luka2945.github.io/Billede/af/skovsneppe.png"
 }
 
 Dette gør det nemt for andre projekter at hente billeder automatisk.
@@ -111,7 +111,7 @@ Billederne kan bruges direkte i fx:
 
 Eksempel i HTML:
 
-<img src="https://luka2945.github.io/Billede/af/graaand.webp">
+<img src="https://luka2945.github.io/Billede/af/graaand.png">
 
 ---
 
